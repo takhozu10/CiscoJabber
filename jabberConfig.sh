@@ -8,4 +8,4 @@ curUser=`ls -l /dev/console | cut -d " " -f 4`;
 curUserDir=`echo /Users/$curUser/Library/Application\ Suppport/Cisco/Unified\ Communications/Jabber/CSF/Config/jabberLocalConfig.xml`
 
 #Replace variables with current user information
-sed -i "s/userInfo/$curUser/g" "$curUserDir"
+sed -i '.bak' "s/userInfo/$curUser/g" "$curUserDir"
