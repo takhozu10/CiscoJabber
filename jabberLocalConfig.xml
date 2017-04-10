@@ -17,6 +17,6 @@
  <userConfig name="lastloadeduserprofileorigin" value="0"/>
  <userConfig name="manualconnectionsettingsupgradecheckperformed" value="done"/>
  <userConfig name="manuallyselectedauthenticator" value="1000"/>
- <userConfig name="suggestedusername" value="$userInfo@biglots.com"/>
+ <userConfig name="suggestedusername" value="userInfo@biglots.com"/>
  <userConfig name="telemetrysignedincriteria" value="OK"/>
 </Jabber>
