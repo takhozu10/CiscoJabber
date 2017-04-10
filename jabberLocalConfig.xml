@@ -2,6 +2,8 @@
 <Jabber>
  <userConfig name="centraluds1" value="gocucmpub.cns.com"/>
  <userConfig name="enable_reformatting_incoming_message" value="false"/>
+ <userConfig name="device_service-lastloggedinusername" value="$userInfo"/>
+ <userConfig name="enable_reformatting_incoming_message" value="false"/>
  <userConfig name="incoming_chat_font_bold" value="false"/>
  <userConfig name="incoming_chat_font_color" value="0"/>
  <userConfig name="incoming_chat_font_italic" value="false"/>
@@ -11,7 +13,10 @@
  <userConfig name="incoming_chat_font_unit" value="px"/>
  <userConfig name="last_known_version" value="11.8.0.249632"/>
  <userConfig name="last_primary_auth" value="CUCM"/>
+ <userConfig name="lastloadeduserprofile" value="$userInfo@biglots.com"/>
+ <userConfig name="lastloadeduserprofileorigin" value="0"/>
  <userConfig name="manualconnectionsettingsupgradecheckperformed" value="done"/>
  <userConfig name="manuallyselectedauthenticator" value="1000"/>
+ <userConfig name="suggestedusername" value="$userInfo@biglots.com"/>
  <userConfig name="telemetrysignedincriteria" value="OK"/>
 </Jabber>
